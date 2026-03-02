@@ -1,0 +1,8 @@
+birthday-website/
+│
+├── index.html
+├── index.md
+├── style.css
+├── script.js
+└── assets/
+    └── friend.jpg   
